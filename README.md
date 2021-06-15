@@ -10,7 +10,7 @@ This is a project that generates a bezier curve segment from the four control po
   - Click on "PLOT CURVE".
   - A new window with the curve plotted should open up as shown below:
     ![image](https://user-images.githubusercontent.com/85937463/122044443-21f2a400-cdfa-11eb-9ba7-9596f8def2ca.png)
-  - To enter different set of coordinates, close the "Bezier Curve" window and edit values in the INPUT_WINDOW. 
+  - To enter different set of coordinates, edit values in the INPUT_WINDOW. 
   - Hit the "PLOT CURVE" button to generate the new curve segment with new set of control points.
 
 ## Tech Stack
